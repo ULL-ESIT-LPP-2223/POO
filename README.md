@@ -8,5 +8,9 @@
   * Métodos de instancia
 
 ## Herencia
-   * Point 3D 
-   * Métodos de acceso (Encapsulamiento)
+  * Point 3D 
+  * Métodos de acceso (Encapsulamiento)
+
+## Módulos
+  * Módulos (namespaces, mixins)
+  * Mixins estándar (include,  Enumerable, each, Comparable, <=>)

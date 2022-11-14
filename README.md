@@ -14,3 +14,8 @@
 ## Módulos
   * Módulos (namespaces, mixins)
   * Mixins estándar (include,  Enumerable, each, Comparable, <=>)
+
+## Polimorfismo
+  * Diferencia entre tipo y clase
+  * Haciendo una clase Comparable
+  * Haciendo una clase Enumerable
